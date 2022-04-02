@@ -1,3 +1,5 @@
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ppb0M-ABv48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ppb0M-ABv48/0.jpg)](https://www.youtube.com/watch?v=ppb0M-ABv48)
