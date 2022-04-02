@@ -13,4 +13,6 @@
 ![image](https://user-images.githubusercontent.com/86548591/161394897-662c902d-2c2f-4e90-92f4-04d9e22b3b98.png)
 
 
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+
+
+  <a href="https://www.linkedin.com/in/shivang-gupta-141470219/"><img alt="LinkedIn" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
